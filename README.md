@@ -24,8 +24,8 @@ AI writes the implementation. Contracts, review and acceptance stay on my side.
 
 ## Stack
 
-Python · SQLite · OpenAI-compatible APIs · unittest · Git
-Earlier: Java / Spring Boot · Vue · Elasticsearch
+- **Current**: Python · SQLite · OpenAI-compatible APIs · unittest · Git
+- **Earlier**: Java / Spring Boot · Vue · Elasticsearch
 
 ## Earlier work
 
